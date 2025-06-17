@@ -1,0 +1,13 @@
+title: Bioeconomia no Meio do Mundo
+author: Seu Nome
+logo: ""
+execute:
+  execute_notebooks: "off"
+html:
+  favicon: ""
+  navbar_number_sections: false
+  extra_navbar: ""
+  use_repository_button: false
+  use_edit_page_button: false
+  extra_css:
+    -_static/custom.css
