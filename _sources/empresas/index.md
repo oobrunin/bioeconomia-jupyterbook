@@ -2,9 +2,8 @@
 
 Escolha abaixo uma categoria de empresas para explorar:
 
-- Bioalimentos
-- Bioartesanato
-- Bioconstrução
-- Biocosméticos
-- Bioenergia
-- Biotecnologia
+- [Bioalimentos](bioalimentos.md)
+- [Bioartesanato](bioartesanato.md)
+- [Biocosméticos](biocosmeticos.md)
+- [Bioenergia](bioenergia.md)
+- [Biotecnologia](biotecnologia.md)
