@@ -7,3 +7,4 @@ Escolha abaixo uma categoria de empresas para explorar:
 - [Biocosméticos](biocosmeticos.md)
 - [Bioenergia](bioenergia.md)
 - [Biotecnologia](biotecnologia.md)
+- [Bioconstrução](bioconstrucao.md)

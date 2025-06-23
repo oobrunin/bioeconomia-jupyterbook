@@ -7,3 +7,4 @@ Explore os produtos sustentáveis divididos por categoria:
 - [Biocosméticos](biocosmeticos.md)
 - [Bioenergia](bioenergia.md)
 - [Biotecnologia](biotecnologia.md)
+- [Bioconstrução](bioconstrucao.md)
