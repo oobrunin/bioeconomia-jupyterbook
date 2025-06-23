@@ -1,0 +1,15 @@
+format: jb-book
+root: intro
+
+chapters:
+  - file: empresas/index
+    sections:
+      - file: empresas/Bioalimetos
+      - file: empresas/Bioartesanato
+      - file: empresas/Bioconstrucao
+      - file: empresas/Biocosmeticos
+      - file: empresas/Bioenergia
+      - file: empresas/Biotecnologia  
+
+  - file: produtos
+  - file: eventos

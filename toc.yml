@@ -1,7 +1,0 @@
-format: jb-book
-root: intro
-
-chapters:
-  - file: eventos
-  - file: empresas
-  - file: produtos

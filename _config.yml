@@ -11,3 +11,4 @@ html:
   use_edit_page_button: false
   extra_css:
     -_static/custom.css
+  
