@@ -1,0 +1,20 @@
+
+/* Muda a cor do título principal */
+h1 {
+  color: #074a24; /* Verde bioeconomia */
+}
+
+/* Cor dos subtítulos */
+h2 {
+  color: #1667a9; /* Azul suave */
+}
+
+/* Fundo da página */
+body {
+  background-color: #f5f5f5;
+}
+
+/* Cor dos links */
+a {
+  color: #006400;
+}
