@@ -1,14 +1,15 @@
 title: Bioeconomia no Meio do Mundo
-author: Seu Nome
+author: Equipe Bioeconomia Amapá
 logo: ""
 execute:
   execute_notebooks: "off"
 html:
   favicon: ""
+  logo: "_static/logo-bioeconomia.png"
   navbar_number_sections: false
   extra_navbar: ""
   use_repository_button: false
   use_edit_page_button: false
   extra_css:
-    -_static/custom.css
+    - _static/custom.css
   

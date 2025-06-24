@@ -1,3 +1,10 @@
-# Empresas de Bioeconomia
+# Empresas da Bioeconomia
 
-Esta seção apresenta empresas divididas por categorias como bioalimentos, biocosméticos e outras.
+Escolha abaixo uma categoria de empresas para explorar:
+
+- [Bioalimentos](bioalimentos.md)
+- [Bioartesanato](bioartesanato.md)
+- [Biocosméticos](biocosmeticos.md)
+- [Bioenergia](bioenergia.md)
+- [Biotecnologia](biotecnologia.md)
+- [Bioconstrução](bioconstrucao.md)

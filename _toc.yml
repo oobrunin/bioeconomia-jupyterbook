@@ -4,12 +4,18 @@ root: intro
 chapters:
   - file: empresas/index
     sections:
-      - file: empresas/Bioalimetos
-      - file: empresas/Bioartesanato
-      - file: empresas/Bioconstrucao
-      - file: empresas/Biocosmeticos
-      - file: empresas/Bioenergia
-      - file: empresas/Biotecnologia  
-
-  - file: produtos
+      - file: empresas/bioalimentos
+      - file: empresas/bioartesanato
+      - file: empresas/bioconstrucao
+      - file: empresas/biocosmeticos
+      - file: empresas/bioenergia
+      - file: empresas/biotecnologia  
+  - file: produtos/index
+    sections:
+      - file: produtos/bioalimentos
+      - file: produtos/bioartesanato
+      - file: produtos/bioconstrucao
+      - file: produtos/biocosmeticos
+      - file: produtos/bioenergia
+      - file: produtos/biotecnologia  
   - file: eventos

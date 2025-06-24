@@ -18,3 +18,10 @@ body {
 a {
   color: #006400;
 }
+
+.bd-sidebar .sidebar-header img {
+  max-height: 180px;
+  width: auto;
+  margin: 0 auto;
+  display: block;
+}

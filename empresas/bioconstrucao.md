@@ -2,30 +2,34 @@
 
 ## REM Tijoloeco 🧱🌿
 
-Fabrica tijolos ecológicos intertravados de solo-cimento, oferecendo soluções sustentáveis na construção civil.
+A REM Tijoloeco é uma iniciativa de construção sustentável que nasceu da necessidade de oferecer materiais acessíveis e ecológicos. A empresa fabrica tijolos ecológicos intertravados, utilizando solo-cimento, com foco na eficiência térmica e na redução de resíduos.
 
-**Município:** Macapá/AP  
-**Endereço:** Travessa Cora de Carvalho, 45 – Pacoval  
-**CNPJ:** 43.221.443/0001-03  
-**Contato:** (96) 99111-4422  
-**Instagram:** [@rem.tijoloeco](https://www.instagram.com/rem.tijoloeco)
+*Município:* Macapá/AP  
+*Endereço:* Travessa Cora de Carvalho, 45 – Pacoval  
+*CNPJ:* 43.221.443/0001-03  
+*Contato:* (96) 99111-4422  
+*Instagram:* @rem.tijoloeco
+
+---
 
 ## VITRIUM 🏗️🪵
 
-Trabalha com design biofílico, arquitetura ecológica e soluções sustentáveis.
+A VITRIUM Soluções em Construção Sustentável trabalha com arquitetura ecológica, design biofílico e consultoria ambiental. Atua em projetos que valorizam o uso de materiais recicláveis e estratégias de baixo impacto ambiental.
 
-**Município:** Macapá/AP  
-**Endereço:** Av. Ernestino Borges, 1789 – Laguinho  
-**CNPJ:** 47.190.325/0001-34  
-**Contato:** (96) 99115-6060  
-**Instagram:** [@vitrium.ap](https://www.instagram.com/vitrium.ap)
+*Município:* Macapá/AP  
+*Endereço:* Av. Ernestino Borges, 1789 – Laguinho  
+*CNPJ:* 47.190.325/0001-34  
+*Contato:* (96) 99115-6060  
+*Instagram:* @vitrium.ap
+
+---
 
 ## Amapá Telhas Sustentáveis 🏘️🌞
 
-Produz telhas ecológicas com embalagens recicladas e fibras vegetais.
+A Amapá Telhas é uma empresa que desenvolve telhas ecológicas feitas de embalagens recicladas e fibras vegetais. Suas soluções são voltadas para a climatização natural e reaproveitamento de materiais pós-consumo.
 
-**Município:** Santana/AP  
-**Endereço:** Rua Mato Grosso, 820 – Fonte Nova  
-**CNPJ:** 48.778.235/0001-77  
-**Contato:** (96) 98122-9090  
-**Instagram:** [@amapatelhas](https://www.instagram.com/amapatelhas)
+*Município:* Santana/AP  
+*Endereço:* Rua Mato Grosso, 820 – Fonte Nova  
+*CNPJ:* 48.778.235/0001-77  
+*Contato:* (96) 98122-9090  
+*Instagram:* @amapatelhas
