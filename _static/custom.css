@@ -18,3 +18,17 @@ body {
 a {
   color: #006400;
 }
+
+/* Substitui o texto do rodapé */
+footer.bd-footer .copyright {
+  visibility: hidden;
+  position: relative;
+}
+
+footer.bd-footer .copyright::after {
+  content: "© 2025 Equipe Bioeconomia Amapá. Todos os direitos reservados.";
+  visibility: visible;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

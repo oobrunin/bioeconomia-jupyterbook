@@ -1,6 +1,6 @@
 # Produtos da Bioeconomia
 
-Explore os produtos sustentáveis divididos por categoria:
+Escolha abaixo uma categoria de empresas para explorar:
 
 - [Bioalimentos](bioalimentos.md)
 - [Bioartesanato](bioartesanato.md)

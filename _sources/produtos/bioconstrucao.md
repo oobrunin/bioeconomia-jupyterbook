@@ -1,36 +1,40 @@
-# Bioconstrução
+## 🧱 Bioconstrução  
+ Materiais e soluções de construção sustentável desenvolvidos no Amapá, com foco em reaproveitamento de resíduos, uso de fibras naturais e tecnologias de baixo impacto ambiental.
 
-Conheça iniciativas sustentáveis na área da bioconstrução que valorizam materiais ecológicos, saberes tradicionais e inovação arquitetônica no Amapá:
+#### 🧱 Tijolo Ecológico Modular  
+**Empresa:** Rem Tijoloeco  
+**Descrição:** Tijolos prensados de solo-cimento, sem queima, com encaixe preciso. Dispensa o uso de cimento em excesso.  
+**Dimensões:** 29x14x9 cm  
+**Origem:** Santana/AP
 
----
+#### 🔶 Meio-Tijolo para Acabamentos  
+**Empresa:** Rem Tijoloeco  
+**Descrição:** Peça complementar para cantos, junções e acabamento fino. Mesma composição ecológica.  
+**Origem:** Santana/AP
 
-### BioCasa Amapá
+#### 🏡 Painéis de Fibra de Pupunha  
+**Empresa:** VITRIUM  
+**Descrição:** Isolantes térmicos e acústicos com visual rústico. Fabricados com fibra vegetal amazônica.  
+**Uso:** Revestimento interno e divisórias.  
+**Origem:** Macapá/AP
 
-*Descrição:* Especializada na construção de casas ecológicas com barro, madeira de manejo sustentável e telhados verdes. Atua com técnicas de bioconstrução e permacultura.
+##### 🪵 Mobiliário Sustentável  
+**Empresa:** VITRIUM  
+**Descrição:** Mesas, bancos e objetos decorativos feitos com madeira reflorestada e resíduos de serrarias.  
+**Origem:** Macapá/AP
 
-- 🌐 Site: [https://biocasaamapa.com.br](https://biocasaamapa.com.br)
-- 📍 Endereço: Rua da Sustentabilidade, 123 – Macapá/AP
-- 📞 Contato: (96) 99999-1234
-- 📧 Email: contato@biocasaamapa.com.br
+#### ♻️ Telhas Recicladas (Modelo R1)  
+**Empresa:** Amapá Telhas  
+**Descrição:** Fabricadas com embalagens Tetra Pak e PET reciclado. Leves, térmicas e resistentes.  
+**Isolamento:** Reduz até 30% da entrada de calor.  
+**Origem:** Macapá/AP
 
----
+#### 🧱 Blocos, Tubos e Cobogós  
+**Empresa:** Amapá Telhas  
+**Descrição:** Elementos pré-moldados de concreto e cerâmica para obras sustentáveis e decoração externa.  
+**Origem:** Macapá/AP
 
-### Ecolar Construtora Sustentável
-
-*Descrição:* Desenvolve projetos de infraestrutura ecológica como escolas e centros comunitários, usando materiais como adobe e bambu, promovendo eficiência energética.
-
-- 🌐 Instagram: [@ecolar.sustentavel](https://instagram.com/ecolar.sustentavel)
-- 📍 Endereço: Av. Verde Vivo, 456 – Santana/AP
-- 📞 Contato: (96) 98888-5678
-- 📧 Email: ecolar.ap@gmail.com
-
----
-
-### Amazônia Terra Viva
-
-*Descrição:* Cooperativa que promove oficinas de bioconstrução comunitária, fornecendo kits e consultorias para construções rurais sustentáveis.
-
-- 🌐 Facebook: [Amazônia Terra Viva](https://facebook.com/amazoniaterraviva)
-- 📍 Endereço: Trav. Bioenergia, 789 – Mazagão/AP
-- 📞 Contato: (96) 99123-4567
-- 📧 Email: atendimento@aterraviva.org
+#### 🔥 Carvão de Açaí  
+**Empresa:** Diversas (usado como insumo)  
+**Descrição:** Produzido a partir do caroço do açaí, com menor emissão de fumaça. Pode ser usado em fogões ecológicos.  
+**Origem:** Vários municípios

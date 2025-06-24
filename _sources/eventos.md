@@ -16,18 +16,27 @@ O estado do Amazonas promoveu um debate com especialistas, representantes do set
 📰 *Fonte:* [Governo do AM – Plano de Bioeconomia (Reddit)](https://www.reddit.com/r/Bioeconomia/comments/1ayk7n9)
 
 ![Debate em Manaus sobre Bioeconomia](https://via.placeholder.com/800x400.png?text=Plano+de+Bioeconomia+em+Manaus)
-
+ 
 ---
+## 🌿 Inova Amazônia Summit 2025 – Macapá/AP
 
-## 🤝 Parceria Brasil–França para Bioeconomia na Amazônia
+📅 *Data:* 21 a 23 de maio de 2025  
+📍 *Local:* Sede do Sebrae/AP – Av. Ernestino Borges, 740, Bairro Laguinho, Macapá – AP
 
-📅 *Data:* 26 de março de 2024  
-📍 *Local:* Belém, Pará  
+O Inova Amazônia Summit 2025 foi o maior evento de bioeconomia da região Norte, reunindo empreendedores, especialistas e instituições públicas e privadas para debater inovação, sustentabilidade e negócios verdes na Amazônia.
 
-Durante visita oficial ao Brasil, os presidentes Lula e Emmanuel Macron anunciaram uma parceria de *1 bilhão de euros* para fomentar a bioeconomia na Amazônia.
+### 🔍 Destaques do evento:
+- Mais de *120 expositores* e *30 painéis temáticos* sobre bioeconomia, biotecnologia, inovação e cultura amazônica.
+- Aproximadamente *R$ 28 milhões movimentados* em negócios, conexões e investimentos.
+- Programação cultural com marabaixo, samba, intervenções indígenas e apresentações artísticas no *Palco Origens*.
+- Encerramento com *show de Carlinhos Brown*, conectando cultura à economia criativa regional.
 
-💡 A iniciativa inclui investimentos em inovação, centros de pesquisa e apoio a cadeias produtivas sustentáveis por meio de bancos como o BNDES e o Banco da Amazônia.
+### 🤝 Organização e Apoio:
+- Sebrae Amapá  
+- Governo do Estado do Amapá  
+- Parceiros: Embrapii, INPI, Sesi/Senai, Confap, Tucuju Valley, Amazônia+21, entre outros.
 
-📰 *Fonte:* [Anúncio oficial Brasil–França (Reddit)](https://www.reddit.com/r/Bioeconomia/comments/1ayk7n9)
-
-![Investimento Brasil–França na Bioeconomia](https://via.placeholder.com/800x400.png?text=Investimento+Bioeconomia+Bel%C3%A9m)
+### 🔗 Saiba mais:
+- Site oficial: [inovaamazoniasummit.com.br](https://inovaamazoniasummit.com.br)  
+- Programação completa e inscrições: [beevent.com.br/inova-amazonia-summit](https://sebraeap.beevent.com.br/evento/inova-amazonia-summit)  
+- Contato Sebrae/AP: (96) 3312-2832 | 0800 570 0800
