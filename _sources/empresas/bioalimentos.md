@@ -91,7 +91,7 @@ A Simone Biscoitos é uma marca amapaense que produz biscoitos e doces artesanai
 ● CNPJ: 45.055.428/0001-70  
 ● Contato: (96) 99222-5566 | contato@simonebiscoitos.com.br  
 ● Redes sociais:  
-○ Instagram: [@simonebiscoitos](https://instagram.com/simonebiscoitos)  
+○ Instagram: [@simonebiscoitos](https://www.instagram.com/simonebiscoito3?igsh=azY1MGlqNDdscXJt)  
 ○ Facebook: [facebook.com/simonebiscoitos](https://facebook.com/simonebiscoitos)
 
 ---
@@ -256,7 +256,7 @@ Ela representa uma nova fronteira da bioeconomia, ao oferecer alternativas vegan
 ● CNPJ: 53.208.778/0001-57  
 ● Contato: contato@amazonbioprotein.com.br | (96) 99166-4400  
 ● Redes sociais:  
-○ Instagram: [@amazonbioprotein](https://instagram.com/amazonbioprotein)  
+○ Instagram: [@amazonbioprotein](https://www.instagram.com/amzbioprotein?igsh=eWsxdnE4MGl4cTBz)  
 ○ LinkedIn: [linkedin.com/company/amazonbioprotein](https://linkedin.com/company/amazonbioprotein)  
 ● Site: [https://amazonbioprotein.com](https://amazonbioprotein.com)
 
@@ -274,7 +274,7 @@ Seu trabalho recebeu reconhecimento nacional por boas práticas de manejo do bab
 ● CNPJ: 27.725.075/0001-96  
 ● Contato: amazonbai.coop@gmail.com  
 ● Redes sociais:  
-○ Instagram: [@amazonbai](https://instagram.com/amazonbai)  
+○ Instagram: [@amazonbai](https://www.instagram.com/amazonbai_?igsh=emJqNXVudjlsNnhp)  
 ○ Facebook: [facebook.com/amazonbai](https://facebook.com/amazonbai)  
 ● Site: [www.amazonbai.com.br](https://www.amazonbai.com.br)
 
@@ -310,5 +310,5 @@ Ela representa um elo entre cultura, sustentabilidade e inovação alimentar, fo
 ● Horário de funcionamento: Qua a Dom, 9h às 14h  
 ● Contato: mongarataya.gengibirra@gmail.com | (96) 99100-6621  
 ● Redes sociais:  
-○ Instagram: [@gengibirramongarataya](https://instagram.com/gengibirramongarataya)  
+○ Instagram: [@gengibirramongarataya](https://www.instagram.com/gengibirramangarataya?igsh=enk4enlmaW5sc2Jk)  
 ○ Facebook: [facebook.com/gengibirramongarataya](https://facebook.com/gengibirramongarataya)
